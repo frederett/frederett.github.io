@@ -1,6 +1,9 @@
+@charset "utf-8";
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap");
+
 // Fonts preferences
-$sans-family: Roboto, sans-serif;
-$mono-family: Consolas, monospace;
+$sans-family: Inter,Roboto, sans-serif;
+$mono-family: "Cascadia Code", Consolas, "Ubuntu Mono", monospace;
 $base-font-size: 16px;
 $medium-font-size: $base-font-size * 0.938;
 $small-font-size: $base-font-size * 0.875;
